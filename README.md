@@ -1,6 +1,4 @@
-# 🚀 My Blogging Platform with Sanity v3 CMS and Next.js 13
-
-Welcome to my blogging platform! This application is powered by Sanity v3 for content management and Next.js 13 for frontend rendering. You could also make your blog own blog basic on this project
+# 🚀 EPIC LAB Content Platform with Sanity v3 CMS and Next.js 13
 
 ## 📚 About the Project
 
