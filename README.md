@@ -1,4 +1,4 @@
-# 🚀 EPIC LAB Content Platform with Sanity v3 CMS and Next.js 13
+# 🚀 EPIC LAB Content Platform 
 
 ## 📚 About the Project
 
@@ -21,6 +21,10 @@ Here's what you can expect from this platform:
 7. **Fast Loading Times**: With Next.js 13, enjoy lightning-fast loading times, ensuring a smooth user experience.
 
 8. **Categorization and Tags**: Easily organize and filter your blog posts with categories and tags.
+
+## ⚙️ Stack
+
+Sanity v3 CMS and Next.js 13
 
 ## 🛠️ Installation
 
